@@ -1,4 +1,4 @@
-const url = "http://localhost:5000/api/school";
+const url = "https://school-bag-assignment-backend.herokuapp.com/api/school";
 
 const addSchool = (data) => {
   return fetch(url, {
