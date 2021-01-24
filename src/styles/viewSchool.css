@@ -1,0 +1,15 @@
+.tableHeaders{
+text-align: center;
+}
+.tableBody{
+    text-align: center;  
+}
+
+.search-bar{
+    width: 400px;
+}
+
+.empty-table{
+    font-weight: bold;
+    color: red;
+}
